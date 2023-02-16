@@ -1,0 +1,8 @@
+.lebotol-title {
+  font-size: 100px;
+  color: red;
+  background-color: black;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
